@@ -1,3 +1,3 @@
 Deployed at:
 
-myanimewiki.netlify.app
+https://myanimewiki.netlify.app
